@@ -16,9 +16,13 @@
 <body>
     <?php include './php/elements/header.php'; ?>
     <main>
-        <section>
+        <section class="example-1">
             <div class="wrapper">
-                section
+                <h2>Example 1</h2>
+                <p>If you click on the button green box will appear or disappear.</p>
+                <div class="example-1__box"></div>
+                <button id="example-1-hide-box">Hide box</button>
+                <button id="example-1-show-box">Show box</button>
             </div>
         </section>
     </main>
