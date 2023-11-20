@@ -11,6 +11,8 @@
     <link rel="stylesheet" href="./css/styles.css" />
 </head>
 
+<?php include './php/functions.php'; ?>
+
 <body>
     <?php include './php/elements/header.php'; ?>
     <main>
