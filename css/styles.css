@@ -40,3 +40,18 @@ body {
 	background-color: green;
 	margin-bottom: 30px;
 }
+
+.example-2__box {
+	width: 100px;
+	height: 100px;
+	background-color: green;
+	margin-bottom: 30px;
+}
+
+.display-none {
+	display: none;
+}
+
+.alert {
+	background-color: red;
+}
