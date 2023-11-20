@@ -12,15 +12,15 @@
 </head>
 
 <body>
-    <header>
-        <nav></nav>
-    </header>
+    <?php include './php/elements/header.php'; ?>
     <main>
-
+        <section>
+            <div class="wrapper">
+                section
+            </div>
+        </section>
     </main>
-    <footer>
-
-    </footer>
+    <?php include './php/elements/footer.php'; ?>
 </body>
 
 </html>
